@@ -1,0 +1,21 @@
+/*font-family:Arial,helvetica,sans-serif; */
+
+.container{
+    width: 600px;
+    margin: 30px auto;
+    background-color: aqua;
+    padding: 20px;
+} 
+
+.title{
+    font-family:'Emphesis',cursive;
+    font-size:14px ;
+    line-height: 1.5;
+}
+.hover-hand{
+    color: darkred;
+}
+
+
+    
+
